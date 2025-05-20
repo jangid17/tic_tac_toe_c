@@ -28,7 +28,7 @@ A simple command-line Tic Tac Toe game written in C. It supports both **Single P
 
 ### 📦 Build and Run
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/yourusername/tic-tac-toe-c.git
 cd tic-tac-toe-c
@@ -39,8 +39,8 @@ gcc -o tictactoe tictactoe.c
 # Run the executable
 ./tictactoe
 
-📁 File Structure
 
+📁 File Structure
 tic-tac-toe-c/
 ├── tictactoe.c      # Main source code
 └── README.md        # This file
@@ -52,3 +52,7 @@ Feel free to fork this project and submit pull requests to improve the game (e.g
 This project is open-source and free to use
 
 Made with ❤️ in C
+
+
+ 
+
